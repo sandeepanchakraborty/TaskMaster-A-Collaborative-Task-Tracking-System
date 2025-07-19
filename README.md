@@ -57,4 +57,3 @@ cd backend
 npm install
 
 
-This project was built with the help of various online tutorials, GitHub repositories, and YouTube videos that guided me through concepts such as authentication, task management workflows, system design, and project architecture. I’ve adapted, customized, and extended the techniques from these resources to suit the specific needs of TaskMaster.
